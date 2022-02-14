@@ -49,7 +49,7 @@ a {
 }
 
 .firstView{
-    background-image: url(images/hero.jpg);
+    background-color: #f0e68c;
     background-size: cover;
     height: 800px;
 }
